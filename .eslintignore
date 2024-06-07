@@ -1,0 +1,7 @@
+node_modules/
+**/style/
+*.html
+dist/
+public/
+assets/
+.eslintrc.*
